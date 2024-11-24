@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas Raza</h1>
 <h3 align="center">
-    Senior Software Engineer | Full-Stack Proficiency with Python & Django | Expert in React & Next.js | Passionate About AI & Cutting-Edge Web Development
+    5+ Years of Experience | Senior Software Engineer | Full-Stack Proficiency with Python & Django | Expert in React & Next.js | Passionate About AI & Cutting-Edge Web Development
 </h3>
 
 <h3 align="left">Connect with me:</h3>
